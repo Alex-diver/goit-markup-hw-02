@@ -57,7 +57,6 @@ body {
 	color: #434455;
 }
 .hero {
-	background-color: grey;
 	font-weight: 700;
 	font-size: 56px;
 	line-height: 1.33;
@@ -130,7 +129,6 @@ body {
 	color: #434455;
 }
 .footer {
-	background-color: grey;
 }
 .footer-logo {
 	font-family: "Raleway";
